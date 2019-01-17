@@ -1,0 +1,16 @@
+ .sqr{ 
+	
+	height:100px; 
+	width:100px; 
+	background-color:blue; 
+	
+ } 
+ 
+ 
+ .wrapper{ 
+	height:98vh; 
+	display:flex; 
+	justify-content:space-between; 
+	align-items: center;
+ 
+ }
